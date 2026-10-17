@@ -4,7 +4,7 @@
 
 ## 1. Introduction
 
-Welcome to **Anvika** ("Anvika", "we", "our", or "us"), developed and operated by **Ashish Pandey – Developer**.
+Welcome to **Anvika** ("Anvika", "we", "our", or "us"), developed and operated by **AshishTheDev**.
 
 Anvika is a menstrual and wellness tracking application designed to help users monitor menstrual cycles, symptoms, moods, and related health information.
 
